@@ -2,6 +2,8 @@ import web
 import utils
 import os.path
 
+# lala this is christine!
+
 urls = (
     '/', 'index'
     , '/video_player/(.*)', 'video_player'
